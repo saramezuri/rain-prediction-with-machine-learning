@@ -24,30 +24,10 @@ Evaluation: Models were evaluated using accuracy, Jaccard Index, F1 Score, and L
 
 ## Models Used
 
-### K-Nearest Neighbors (KNN):
-
-Accuracy: 81.83%
-Jaccard Index: 42.51%
-F1 Score: 59.66%
-
-### Decision Tree:
-
-Accuracy: 81.83%
-Jaccard Index: 48.03%
-F1 Score: 64.90%
-
-### Logistic Regression:
-
-Accuracy: 83.82%
-Jaccard Index: 51.15%
-F1 Score: 67.68%
-Log Loss: 0.38
-
-### Support Vector Machine (SVM):
-
-Accuracy: 72.21%
-Jaccard Index: 72.21%
-F1 Score: 60.56%
+* K-Nearest Neighbors (KNN):
+* Decision Tree:
+* Logistic Regression:
+* Support Vector Machine (SVM):
 
 ## Conclusions
 
