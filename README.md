@@ -29,7 +29,7 @@ Evaluation: Models were evaluated using accuracy, Jaccard Index, F1 Score, and L
 * Logistic Regression:
 * Support Vector Machine (SVM):
 
-![Report Data Table](assets/image.jpg)
+![Report Data Table](report_data_table.jpg)
 
 ## Conclusions
 
