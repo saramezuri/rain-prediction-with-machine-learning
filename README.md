@@ -29,6 +29,8 @@ Evaluation: Models were evaluated using accuracy, Jaccard Index, F1 Score, and L
 * Logistic Regression:
 * Support Vector Machine (SVM):
 
+![Report Data Table](assets/image.jpg)
+
 ## Conclusions
 
 **Logistic Regression** achieved the highest accuracy (83.82%) and best F1 Score (67.68%) among the models, making it the most effective for this dataset.
