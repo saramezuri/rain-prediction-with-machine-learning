@@ -7,7 +7,7 @@ This project demonstrates the application of various machine learning classifica
 
 The original source of the data is the Australian Government's Bureau of Meteorology and the latest data can be gathered from [http://www.bom.gov.au/climate/dwo/]. This dataset contains observations of weather metrics for each day from 2008 to 2017. 
 
-The dataset to be used has extra columns like 'RainToday' and our target is 'RainTomorrow', which was gathered from the Rattle at [https://bitbucket.org/kayontoga/rattle/src/master/data/weatherAUS.RData]
+The dataset to be used has extra columns like 'RainToday' and our target is 'RainTomorrow', which was gathered from the Rattle at https://bitbucket.org/kayontoga/rattle/src/master/data/weatherAUS.RData
 
 * Source: Weather Dataset on Kaggle
 * Number of Instances: 3,271
@@ -24,10 +24,10 @@ Evaluation: Models were evaluated using accuracy, Jaccard Index, F1 Score, and L
 
 ## Models Used
 
-* K-Nearest Neighbors (KNN):
-* Decision Tree:
-* Logistic Regression:
-* Support Vector Machine (SVM):
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Logistic Regression
+* Support Vector Machine (SVM)
 
 ![Report Data Table](report_data_table.jpg)
 
